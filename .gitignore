@@ -1,0 +1,43 @@
+## Build Results
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+dist/
+*.zip
+*.7z
+*.rar
+*.tar.gz
+
+## Visual Studio & Visual Studio Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ide/
+
+## OS Generated Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+## Logs & Diagnostics
+*.log
+*.tmp
+logs/
+
+## Scratch & Unrelated Folders
+DeviceScanner/
+CreatePlaceholderIcons/
+my-site/
+
+## Packages
+*.nupkg
+packages/
+!packages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
