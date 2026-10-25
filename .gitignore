@@ -1,0 +1,35 @@
+## Archives & Releases
+*.zip
+*.7z
+*.rar
+*.tar.gz
+dist/
+dist_driver/
+
+## Legacy C# / .NET Daemon folders
+MagicTrackpadDriver/
+DeviceScanner/
+CreatePlaceholderIcons/
+MagicTrackpadDriver.sln
+*.exe
+
+## Web Studio & Unrelated Projects
+my-site/
+ContentView.swift
+
+## Visual Studio & Visual Studio Code
+.vs/
+.vscode/
+*.suo
+*.user
+
+## OS Generated Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+## Logs & Diagnostics
+*.log
+*.tmp
